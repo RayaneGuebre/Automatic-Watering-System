@@ -15,3 +15,7 @@ I've almost finished the schematic, but I don't know how to assign the footprint
 
 22:44 update:
 I've finished the schematic, but I'm unsure if it'll work. Hoping someone can check it for me
+
+
+## 07/06
+after a short pause i've completed the PCB and the code, i just need to finish the BOM ad it will be ready to ship!!!
