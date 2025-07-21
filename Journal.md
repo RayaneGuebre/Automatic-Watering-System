@@ -1,4 +1,6 @@
 # Automatic Watering System
+
+## Totql time spent: 13H 30min
 Hey, guess who forgot to make the repository for this project? me! And here I am. 
 Dear highway reviewer, please have some mercy :D
 Most of the time spent each day has been supposed based on my memory and skills
