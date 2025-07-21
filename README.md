@@ -19,3 +19,7 @@
 
 
 Last month, while walking, i noticed a wall that would have been beautiful with some climbing plants, and there were some, but the only problem was that almost all the plants seemed completely dry. and while thinking about that wall i had the idea for this project, after a month of designing and exams i finally finished it
+
+
+## BOM
+<img width="691" height="319" alt="image" src="https://github.com/user-attachments/assets/0d92d23b-d7bc-4dc6-a480-c86a3b73bb85" />
