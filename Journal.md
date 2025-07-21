@@ -40,5 +40,5 @@ Changing supplier and BOM: 2h
 ## 21/07
 Now, everything is ready.
 Pcb design, Bom, writing: 5h
-<img width="746" height="370" alt="image" src="https://github.com/user-attachments/assets/97099d2c-624e-4f6a-9c55-d4fff46624a5" />
+<img src="https://github.com/RayaneGuebre/Automatic-Watering-System/blob/main/schematic.png?raw=true" alt="schematic.png"/>
 
