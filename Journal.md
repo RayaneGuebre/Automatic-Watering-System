@@ -1,6 +1,6 @@
 # Automatic Watering System
 
-## Totql time spent: 13H 30min
+## Total time spent: 13H 30min
 Hey, guess who forgot to make the repository for this project? me! And here I am. 
 Dear highway reviewer, please have some mercy :D
 Most of the time spent each day has been supposed based on my memory and skills
@@ -40,4 +40,5 @@ Changing supplier and BOM: 2h
 ## 21/07
 Now, everything is ready.
 Pcb design, Bom, writing: 5h
-<img width="691" height="319" alt="image" src="https://github.com/user-attachments/assets/a33b42e0-972b-427a-a8ed-5c58c0ce3abf" />
+<img width="746" height="370" alt="image" src="https://github.com/user-attachments/assets/97099d2c-624e-4f6a-9c55-d4fff46624a5" />
+
