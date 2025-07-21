@@ -19,7 +19,7 @@ Designign: 1h
 22:44 update:
 I've finished the schematic, but I'm unsure if it'll work. Hoping someone can check it for me
 Designing: 30m
-<img src="https://github.com/RayaneGuebre/Automatic-Watering-System/blob/main/schematic.png?raw=true" alt="schematic.png"/><img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/cfbf36de-4d1f-42f5-b747-d3c0b07e2e2f" />
+<img src="https://github.com/RayaneGuebre/Automatic-Watering-System/blob/main/schematic.png?raw=true" alt="schematic.png"/>
 
 
 ## 07/06
