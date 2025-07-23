@@ -25,7 +25,7 @@ Designing: 30m
 ## 07/06
 after a short pause, I've completed the PCB and the code. i just need to finish the BOM ad it will be ready to ship!!!
 Designign and research: 2h
-
+  
 
 ## 11/07
 After a month of exams and then getting sick i decided to finally finish the BOM, BUT, i forgot that the file of the pcb was on my school laptop. I thought i saved it on my Onedrive (spoiler: I didn't save it correctly). Still, after giving it back and checking on Onedrive, i discovered that it all went gone, except the png file that i commited here on github ( thanks God ) and so after 3 days of rage baiting i finally finished it (my personal laptop is slow as hell). Tomorrow I'm going to complete the BOM and ship it to Highway!!!
@@ -41,4 +41,6 @@ Changing supplier and BOM: 2h
 Now, everything is ready.
 Pcb design, Bom, writing: 5h
 <img src="https://github.com/RayaneGuebre/Automatic-Watering-System/blob/main/schematic.png?raw=true" alt="schematic.png"/>
+## 23 /07
 
+Today i've added a case and also made some changes in the BOM to reduce the costs, ready to reship!!!
