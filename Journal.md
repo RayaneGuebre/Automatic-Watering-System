@@ -1,9 +1,9 @@
 # Automatic Watering System
 
 ## Total time spent: 13H 30min
-Hey, guess who forgot to make the repository for this project? me! And here I am. 
+Hey, guess who forgot to make the repository for this project? Me! And here I am. 
 Dear highway reviewer, please have some mercy :D
-Most of the time spent each day has been supposed based on my memory and skills
+Most of the time spent each day has been estimated based on my memory and skills
 ## Plan
 Using an ESP32 to control a water pump to automatically water some plants daily
 
@@ -14,33 +14,38 @@ Using an ESP32 to control a water pump to automatically water some plants daily
 ## 29/05
 I forgot to log my progress, but better late than never, I guess :)
 I've almost finished the schematic, but I don't know how to assign the footprint to a custom symbol I made to solder the power source directly to the PCB
-Designign: 1h
+Designing: 1h
 
 22:44 update:
 I've finished the schematic, but I'm unsure if it'll work. Hoping someone can check it for me
+At the end, I didn't solder the power source wire directly to the PCB, but I used a terminal block so I don't have to resolder it in case of need.
 Designing: 30m
 <img src="https://github.com/RayaneGuebre/Automatic-Watering-System/blob/main/schematic.png?raw=true" alt="schematic.png"/>
 
 
 ## 07/06
-after a short pause, I've completed the PCB and the code. i just need to finish the BOM ad it will be ready to ship!!!
-Designign and research: 2h
+After a short pause, I've completed the PCB and the code. I just need to finish the BOM, and it will be ready to ship!!!
+I'm gonna order most parts from digiKey, even if at first I wanted to use Mouser, but I changedbecauseeMouserrdidn'tt have the soldeI i was looking for
+Designing and researching: 2h
   
 
 ## 11/07
-After a month of exams and then getting sick i decided to finally finish the BOM, BUT, i forgot that the file of the pcb was on my school laptop. I thought i saved it on my Onedrive (spoiler: I didn't save it correctly). Still, after giving it back and checking on Onedrive, i discovered that it all went gone, except the png file that i commited here on github ( thanks God ) and so after 3 days of rage baiting i finally finished it (my personal laptop is slow as hell). Tomorrow I'm going to complete the BOM and ship it to Highway!!!
-
+After a month of exams and then getting sick, I decided to finally finish the BOM, BUT I forgot that the file of the PCB was on my school laptop. Even if  I thought I saved it on my OneDrive (spoiler: I didn't save it correctly). After giving it back and checking on OneDrive, I discovered that it all went gone, except the PNG file that I committed here on GitHub ( thanks God ), and so after 3 days of rage baiting, I finally finished it (my personal laptop is slow as hell). Tomorrow I'm going to complete the BOM and ship it to Highway!!!
+The most difficult parts were most probably the schematic, since I KICAD kept crashing, but I made it through.
 Designing: 3 / 4h
 
 ## 20 / 07
-So i tought that everything was ready to be submitted to highway, but while checking the BOM i realized that using digikey, i would have to pay customs as well, so i decided to switch to Mouser, but the only problem is that the potentiometer i found on digikey is not available on Mouser, so tomorrow i've to change that component on the pcb design, but now it's 1 Am so i should go to sleep, good night dear reader 
+So i tought that everything was ready to be submitted to highway, but while checking the BOM i realized that using digikey, i would have to pay customs as well, so i decided to switch to Mouser, but the only problem is that the potentiometer i found on digikey is not available on Mouser, so tomorrow i've to change that component on the pcb design, but now it's 1 Am so i should go to sleep, good night dear reader. 
 Changing supplier and BOM: 2h
 
 
 ## 21/07
-Now, everything is ready.
-Pcb design, Bom, writing: 5h
+Now, everything is ready. I rechecked the BOM, and everything is in USD, and the PCB and schematics are ready as well.
+PCB design, Bom, writing: 5h
 <img src="https://github.com/RayaneGuebre/Automatic-Watering-System/blob/main/schematic.png?raw=true" alt="schematic.png"/>
 ## 23 /07
 
-Today i've added a case and also made some changes in the BOM to reduce the costs, ready to reship!!!
+Today I've added a case and also made some changes in the BOM to reduce the costs, since the solder was too expensive, but I saved some money on the VAT, though. Now I'm ready to reship!!!
+<img width="693" height="361" alt="Screenshot 2025-07-23 19 09 24" src="https://github.com/user-attachments/assets/c1837278-2781-4f4d-963a-eaeb3ce0cdfa" />
+<img width="596" height="310" alt="Screenshot 2025-07-27 19 54 04" src="https://github.com/user-attachments/assets/46a67ec9-5d3e-4ac3-9c07-a23e248eeecd" />
+
