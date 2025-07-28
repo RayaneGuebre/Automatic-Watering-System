@@ -1,6 +1,6 @@
 # Automatic Watering System
 
-## Total time spent: 13H 30min
+## Total time spent: 14h
 Hey, guess who forgot to make the repository for this project? Me! And here I am. 
 Dear highway reviewer, please have some mercy :D
 Most of the time spent each day has been estimated based on my memory and skills
@@ -25,7 +25,7 @@ Designing: 30m
 
 ## 07/06
 After a short pause, I've completed the PCB and the code. I just need to finish the BOM, and it will be ready to ship!!!
-I'm gonna order most parts from digiKey, even if at first I wanted to use Mouser, but I changedbecauseeMouserrdidn'tt have the soldeI i was looking for
+I'm gonna order most parts from digiKey, even if at first I wanted to use Mouser, but I changed because Mouser didn't have the solder i was looking for
 Designing and researching: 2h
   
 
@@ -40,6 +40,8 @@ Changing supplier and BOM: 2h
 
 
 ## 21/07
+
+
 Now, everything is ready. I rechecked the BOM, and everything is in USD, and the PCB and schematics are ready as well.
 PCB design, Bom, writing: 5h
 <img src="https://github.com/RayaneGuebre/Automatic-Watering-System/blob/main/schematic.png?raw=true" alt="schematic.png"/>
@@ -49,3 +51,8 @@ Today I've added a case and also made some changes in the BOM to reduce the cost
 <img width="693" height="361" alt="Screenshot 2025-07-23 19 09 24" src="https://github.com/user-attachments/assets/c1837278-2781-4f4d-963a-eaeb3ce0cdfa" />
 <img width="596" height="310" alt="Screenshot 2025-07-27 19 54 04" src="https://github.com/user-attachments/assets/46a67ec9-5d3e-4ac3-9c07-a23e248eeecd" />
 
+#28 / 07
+
+I lost the Fusion 360 file for the case, so I couldn't separate the two parts for separate printing. As a result, I had to recreate the design. Fortunately, I still had the dimensions from the STL file that I uploaded to GitHub.b.
+
+Designing: 30min
