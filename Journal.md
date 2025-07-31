@@ -1,6 +1,6 @@
 # Automatic Watering System
 
-## Total time spent: 14h
+## Total time spent: 15h
 Hey, guess who forgot to make the repository for this project? Me! And here I am. 
 Dear highway reviewer, please have some mercy :D
 Most of the time spent each day has been estimated based on my memory and skills
@@ -26,7 +26,8 @@ Designing: 30m
 ## 07/06
 After a short pause, I've completed the PCB and the code. I just need to finish the BOM, and it will be ready to ship!!!
 I'm gonna order most parts from digiKey, even if at first I wanted to use Mouser, but I changed because Mouser didn't have the solder i was looking for
-Designing and researching: 2h
+Designing, coding and researching: 3h
+<img width="437" height="463" alt="Screenshot 2025-07-31 11 42 12" src="https://github.com/user-attachments/assets/cb84c58b-c609-453e-bf6d-6a8a41d60fc9" />
 <img width="431" height="140" alt="image" src="https://github.com/user-attachments/assets/e8619199-8b2b-4994-b372-bb0f5f6c6986" />
 <img width="1008" height="435" alt="Screenshot 2025-07-31 11 46 15" src="https://github.com/user-attachments/assets/61059fa7-6a74-4a4d-af8d-cdf2ccff5410" />
 <img width="737" height="312" alt="Screenshot 2025-07-31 11 46 09" src="https://github.com/user-attachments/assets/89122912-403d-4753-afea-69a2767dffac" />
@@ -38,13 +39,15 @@ After a month of exams and then getting sick, I decided to finally finish the BO
 The most difficult parts were most probably the schematic, since I KICAD kept crashing, but I made it through.
 Designing: 3 / 4h
 
+
+
 ## 20 / 07
 So i tought that everything was ready to be submitted to highway, but while checking the BOM i realized that using digikey, i would have to pay customs as well, so i decided to switch to Mouser, but the only problem is that the potentiometer i found on digikey is not available on Mouser, so tomorrow i've to change that component on the pcb design, but now it's 1 Am so i should go to sleep, good night dear reader. 
 Changing supplier and BOM: 2h
+<img width="734" height="387" alt="image" src="https://github.com/user-attachments/assets/1c903c89-26e3-42a4-9f6b-cf3d7ec31ad4" />
 
 
 ## 21/07
-
 
 Now, everything is ready. I rechecked the BOM, and everything is in USD, and the PCB and schematics are ready as well.
 PCB design, Bom, writing: 5h
@@ -58,5 +61,5 @@ Today I've added a case and also made some changes in the BOM to reduce the cost
 #28 / 07
 
 I lost the Fusion 360 file for the case, so I couldn't separate the two parts for separate printing. As a result, I had to recreate the design. Fortunately, I still had the dimensions from the STL file that I uploaded to GitHub.b.
-
 Designing: 30min
+<img width="611" height="362" alt="image" src="https://github.com/user-attachments/assets/75deb6f1-b620-4257-a7e8-d8600334a444" />
