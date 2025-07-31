@@ -17,8 +17,7 @@ I've almost finished the schematic, but I don't know how to assign the footprint
 Designing: 1h
 #30 / 05
 Since no one on Slack checked my pcb schematic and i don't trust chatgpt, i ended up in a Discord server focused on electronic engineering, and there I received a lot of help and tips, and got my schematic checked and approved!!
-Researching: 2h
-<img width="49" height="47" alt="image" src="https://github.com/user-attachments/assets/966d9d5e-758f-48da-b4b9-a25f2305ab4d" />
+Researching: 2h <img width="49" height="47" alt="image" src="https://github.com/user-attachments/assets/966d9d5e-758f-48da-b4b9-a25f2305ab4d" />
 
 22:44 update:
 I've finished the schematic, but I'm unsure if it'll work. Hoping someone can check it for me
@@ -29,10 +28,12 @@ Designing: 30m
 
 ## 07/06
 After a short pause, I've completed the PCB and the code. I just need to finish the BOM, and it will be ready to ship!!!
-I'm gonna order most parts from digiKey, even if at first I wanted to use Mouser, but I changed because Mouser didn't have the solder i was looking for
+I'm gonna order most parts from digiKey, even if at first I wanted to use Mouser, but I changed because Mouser didn't have the solder I was looking for
 Designing, coding and researching: 3h
+
+
+
 <img width="437" height="463" alt="Screenshot 2025-07-31 11 42 12" src="https://github.com/user-attachments/assets/cb84c58b-c609-453e-bf6d-6a8a41d60fc9" />
-<img width="431" height="140" alt="image" src="https://github.com/user-attachments/assets/e8619199-8b2b-4994-b372-bb0f5f6c6986" />
 <img width="1008" height="435" alt="Screenshot 2025-07-31 11 46 15" src="https://github.com/user-attachments/assets/61059fa7-6a74-4a4d-af8d-cdf2ccff5410" />
 <img width="737" height="312" alt="Screenshot 2025-07-31 11 46 09" src="https://github.com/user-attachments/assets/89122912-403d-4753-afea-69a2767dffac" />
 
