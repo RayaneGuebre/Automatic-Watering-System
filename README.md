@@ -22,5 +22,6 @@ Last month, while walking, i noticed a wall that would have been beautiful with 
 
 
 ## BOM
-<img width="693" height="361" alt="image" src="https://github.com/user-attachments/assets/b2320e83-2d34-44cd-b312-be43f30897f2" />
+<img width="450" height="312" alt="image" src="https://github.com/user-attachments/assets/e097f2f5-37e5-41da-b3c0-bf726e4e2099" />
+
 
