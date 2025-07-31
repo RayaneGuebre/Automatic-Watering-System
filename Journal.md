@@ -27,6 +27,10 @@ Designing: 30m
 After a short pause, I've completed the PCB and the code. I just need to finish the BOM, and it will be ready to ship!!!
 I'm gonna order most parts from digiKey, even if at first I wanted to use Mouser, but I changed because Mouser didn't have the solder i was looking for
 Designing and researching: 2h
+<img width="431" height="140" alt="image" src="https://github.com/user-attachments/assets/e8619199-8b2b-4994-b372-bb0f5f6c6986" />
+<img width="1008" height="435" alt="Screenshot 2025-07-31 11 46 15" src="https://github.com/user-attachments/assets/61059fa7-6a74-4a4d-af8d-cdf2ccff5410" />
+<img width="737" height="312" alt="Screenshot 2025-07-31 11 46 09" src="https://github.com/user-attachments/assets/89122912-403d-4753-afea-69a2767dffac" />
+
   
 
 ## 11/07
