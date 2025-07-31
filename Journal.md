@@ -1,6 +1,6 @@
 # Automatic Watering System
 
-## Total time spent: 15h
+## Total time spent: 17h
 Hey, guess who forgot to make the repository for this project? Me! And here I am. 
 Dear highway reviewer, please have some mercy :D
 Most of the time spent each day has been estimated based on my memory and skills
@@ -15,6 +15,10 @@ Using an ESP32 to control a water pump to automatically water some plants daily
 I forgot to log my progress, but better late than never, I guess :)
 I've almost finished the schematic, but I don't know how to assign the footprint to a custom symbol I made to solder the power source directly to the PCB
 Designing: 1h
+#30 / 05
+Since no one on Slack checked my pcb schematic and i don't trust chatgpt, i ended up in a Discord server focused on electronic engineering, and there I received a lot of help and tips, and got my schematic checked and approved!!
+Researching: 2h
+<img width="49" height="47" alt="image" src="https://github.com/user-attachments/assets/966d9d5e-758f-48da-b4b9-a25f2305ab4d" />
 
 22:44 update:
 I've finished the schematic, but I'm unsure if it'll work. Hoping someone can check it for me
