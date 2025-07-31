@@ -15,7 +15,7 @@ Using an ESP32 to control a water pump to automatically water some plants daily
 I forgot to log my progress, but better late than never, I guess :)
 I've almost finished the schematic, but I don't know how to assign the footprint to a custom symbol I made to solder the power source directly to the PCB
 Designing: 1h
-#30 / 05
+## 30 / 05
 Since no one on Slack checked my pcb schematic and i don't trust chatgpt, i ended up in a Discord server focused on electronic engineering, and there I received a lot of help and tips, and got my schematic checked and approved!!
 Researching: 2h <img width="49" height="47" alt="image" src="https://github.com/user-attachments/assets/966d9d5e-758f-48da-b4b9-a25f2305ab4d" />
 
@@ -63,7 +63,7 @@ Today I've added a case and also made some changes in the BOM to reduce the cost
 <img width="693" height="361" alt="Screenshot 2025-07-23 19 09 24" src="https://github.com/user-attachments/assets/c1837278-2781-4f4d-963a-eaeb3ce0cdfa" />
 <img width="596" height="310" alt="Screenshot 2025-07-27 19 54 04" src="https://github.com/user-attachments/assets/46a67ec9-5d3e-4ac3-9c07-a23e248eeecd" />
 
-#28 / 07
+## 28 / 07
 
 I lost the Fusion 360 file for the case, so I couldn't separate the two parts for separate printing. As a result, I had to recreate the design. Fortunately, I still had the dimensions from the STL file that I uploaded to GitHub.b.
 Designing: 30min
