@@ -16,6 +16,11 @@ void setup() {
     ledcSetup(pumpChannel,freq,resolution);
     ledcAttachPin(pumpPin,pumpChannel);    
 
+   
+
+}
+
+void loop() {
     int potVal = analogRead(potentiometerPin);
     int pwrVal = map(potVal, 0, 4095, 0, 255);
 
@@ -28,10 +33,5 @@ void setup() {
     esp_deep_sleep_start(); 
 
 
-
-}
-
-void loop() {
-    
     
 }
