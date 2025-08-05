@@ -22,6 +22,6 @@
 
 
 ## BOM
-<img width="450" height="312" alt="image" src="https://github.com/user-attachments/assets/e097f2f5-37e5-41da-b3c0-bf726e4e2099" />
+<img width="1278" height="634" alt="image" src="https://github.com/user-attachments/assets/5fdc53f2-64d6-4fdf-a356-1ff7c0e5b994" />
 
 
