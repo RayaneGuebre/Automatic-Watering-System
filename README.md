@@ -24,7 +24,4 @@
 
 
 ## BOM
-<img width="450" height="312" alt="image" src="https://github.com/user-attachments/assets/e097f2f5-37e5-41da-b3c0-bf726e4e2099" />
-
-
-
+<img width="710" height="388" alt="Screenshot 2025-08-06 17 12 52" src="https://github.com/user-attachments/assets/5022e3f6-1826-40a8-8c30-18f3a433c264" />
