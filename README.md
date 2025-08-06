@@ -19,8 +19,10 @@
 </p>
 
 
-
-### Last month, while walking, i noticed a wall that would have been beautiful with some climbing plants, and there were some, but the only problem was that almost all the plants seemed completely dry. and while thinking about that wall i had the idea for this project, after a month of designing and exams i finally finished it, 
+## How it works
+Each time the ESP32 wakes up from deep sleep, it sends a signal to the gate pin of the MOSFET. This allows current from the water pump to flow to the ground pin of the power source, activating the pump and delivering water to the thirsty plants. The ESP32 also reads the value from the potentiometer to regulate how much water flows through the tube, making it easy to adjust for a larger or smaller number of plants.
+## Storytime
+Last month, while walking, i noticed a wall that would have been beautiful with some climbing plants, and there were some, but the only problem was that almost all the plants seemed completely dry. and while thinking about that wall i had the idea for this project, after a month of designing and exams i finally finished it, 
 
 
 ## BOM
