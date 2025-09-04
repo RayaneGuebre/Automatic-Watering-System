@@ -26,7 +26,7 @@ Last month, while walking, i noticed a wall that would have been beautiful with 
 
 
 ## BOM
-<img width="674" height="386" alt="image" src="https://github.com/user-attachments/assets/89f1d242-3ce4-4209-a76e-bf829ecc76c9" />
+<img width="674" height="386" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0e6110dbd67df7d5fc6928dfc5de605381d473e8_screenshot_20250904-162317.png" />
 
 
 [Link Excel](https://diccollegeliege-my.sharepoint.com/:x:/g/personal/guebnadi_dic-college_be/EUuX6dw9avlKky0aWlI7B-UB21Nbo-P0he4uefEX8ywWqg?e=9ALEz9)
