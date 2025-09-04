@@ -12,7 +12,7 @@
 |Diode                  |0,10 € |1     |      |      |Mouser    |      |€ 0,10  |      |       |
 |Potentiometer          |1,63 € |1     |      |      |Mouser    |      |€ 1,63  |      |       |
 |Mouser Shipping + TVA  |10,82 €|1     |      |      |          |      |€ 10,82 |      |       |
-|Flux                   |€ 19,45|1     |      |      |Mouser    |      |€ 19,45 |      |       |
+|~~Flux~~                   |€0|1     |      |      |Mouser    |      |€ 19,45 |      |       |
 |PCB                    |€ 24,20|1     |      |      |Screenshot|      |€ 27,04 |      |       |
 |Power supply + Shipping|€ 8,20 |1     |      |      |Aliexpress|      |€ 8,20  |      |       |
 |ESP32 Battery          |€ 10,19|1     |      |      |Amazon    |      |€ 10,19 |      |       |
